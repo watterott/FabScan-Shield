@@ -1,0 +1,69 @@
+Partlist for FabScan-Shield_v11.brd
+
+
+Assembly variant: SMD
+
+Part     Value          Package      Library         Position (inch)       Orientation
+
+D1A      Con 8Pin       MA08-1       con-lstb        (2.15 1.725)          R180
+D1B      Con 8Pin       MA08-1       con-lstb        (2.15 1.225)          R180
+D2A      Con 8Pin       MA08-1       con-lstb        (1.3 1.725)           R180
+D2B      Con 8Pin       MA08-1       con-lstb        (1.3 1.225)           R180
+D3A      Con 8Pin       MA08-1       con-lstb        (0.45 1.725)          R180
+D3B      Con 8Pin       MA08-1       con-lstb        (0.45 1.225)          R180
+D4A      Con 8Pin       MA08-1       con-lstb        (1.85 0.325)          R0
+D4B      Con 8Pin       MA08-1       con-lstb        (1.85 0.825)          R0
+LASER    Header 2Pin    2POL254      con-phoenix-254 (0.15 0.55)           R90
+LED      Header 2Pin    2POL254      con-phoenix-254 (0.15 0.25)           R90
+M1       Header 4Pin    MA04-1       con-lstb        (2.25 1.025)          R180
+M2       Header 4Pin    MA04-1       con-lstb        (1.15 1.025)          R180
+M3       Header 4Pin    MA04-1       con-lstb        (0.6 1.025)           R180
+M4       Header 4Pin    MA04-1       con-lstb        (1.7 1.025)           R0
+S1       Header 3Pin    MA03-1       con-lstb        (1.9 1.475)           R0
+S2       Header 3Pin    MA03-1       con-lstb        (1.05 1.475)          R0
+S3       Header 3Pin    MA03-1       con-lstb        (0.2 1.475)           R0
+S4       Header 3Pin    MA03-1       con-lstb        (2.1 0.575)           R180
+RESET    Switch         SW_SMD4      Switch-SMD      (0.9 0.125)           R270
+C1       2uF            C0603        rcl             (2.475 1.3875)        R90
+C2       2uF            C0603        rcl             (1.65 1.3875)         R90
+C3       2uF            C0603        rcl             (0.8 1.3875)          R90
+C4       2uF            C0603        rcl             (1.5 0.6625)          R270
+D1       LED            CHIPLED_0603 led             (2.3375 1.8375)       R270
+D2       LED            CHIPLED_0603 led             (1.4875 1.8375)       R270
+D3       LED            CHIPLED_0603 led             (0.6375 1.8375)       R270
+D4       LED            CHIPLED_0603 led             (1.4 0.4875)          R180
+R1       1k             R0603        rcl             (2.475 1.8375)        R180
+R2       1k             R0603        rcl             (1.625 1.8375)        R180
+R3       1k             R0603        rcl             (0.775 1.8375)        R180
+R4       1k             R0603        rcl             (1.4 0.35)            R90
+R5B      4k7            R0603        rcl             (0.75 0.3)            R0
+R6       47k            R0603        rcl             (0.75 0.4)            R180
+D5B      1N4148         SOD106-R     diode           (0.55 0.6)            R0
+T1B      IRLML2502      MICRO3       IRF-sot23       (0.45 0.425)          R90
+
+
+
+
+Assembly variant: THT
+
+D1A      Con 8Pin       MA08-1       con-lstb        (2.15 1.725)          R180
+D1B      Con 8Pin       MA08-1       con-lstb        (2.15 1.225)          R180
+D2A      Con 8Pin       MA08-1       con-lstb        (1.3 1.725)           R180
+D2B      Con 8Pin       MA08-1       con-lstb        (1.3 1.225)           R180
+D3A      Con 8Pin       MA08-1       con-lstb        (0.45 1.725)          R180
+D3B      Con 8Pin       MA08-1       con-lstb        (0.45 1.225)          R180
+D4A      Con 8Pin       MA08-1       con-lstb        (1.85 0.325)          R0
+D4B      Con 8Pin       MA08-1       con-lstb        (1.85 0.825)          R0
+LASER    Header 2Pin    2POL254      con-phoenix-254 (0.15 0.55)           R90
+LED      Header 2Pin    2POL254      con-phoenix-254 (0.15 0.25)           R90
+M1       Header 4Pin    MA04-1       con-lstb        (2.25 1.025)          R180
+M2       Header 4Pin    MA04-1       con-lstb        (1.15 1.025)          R180
+M3       Header 4Pin    MA04-1       con-lstb        (0.6 1.025)           R180
+M4       Header 4Pin    MA04-1       con-lstb        (1.7 1.025)           R0
+S1       Header 3Pin    MA03-1       con-lstb        (1.9 1.475)           R0
+S2       Header 3Pin    MA03-1       con-lstb        (1.05 1.475)          R0
+S3       Header 3Pin    MA03-1       con-lstb        (0.2 1.475)           R0
+S4       Header 3Pin    MA03-1       con-lstb        (2.1 0.575)           R180
+D5A      1N4148         DO35-7       diode           (0.55 0.6)            R0
+R5A      4k7            0204/7       rcl             (0.75 0.3)            R180
+T1A      BC547          TO92         transistor      (0.4 0.3)             R270
