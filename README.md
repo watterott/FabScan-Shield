@@ -4,4 +4,5 @@ The FabScan-Shield is a plug-on module for Arduino to drive Stepper and Servo Mo
 [![FabScan-Shield](https://github.com/watterott/FabScan-Shield/raw/master/hardware/FabScan-Shield_v11.jpg)](http://www.watterott.com/en/Arduino-FabScan-Shield)
 
 * Drive up to 4 stepper motors (requires Pololu A4988 or StepStick) or servo motors
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/fabscan/)**
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
