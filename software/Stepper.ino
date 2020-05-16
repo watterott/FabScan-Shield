@@ -1,5 +1,8 @@
 /*
-  Using a Pololu A4988 or StepStick Stepper Motor Driver with FabScan-Shield.
+  Using a StepStick or SilentStepStick Stepper Motor Driver with FabScan-Shield.
+
+  Example source code free to use.
+  Further information: https://learn.watterott.com/license/
 */
 
             //driver: 1 | 2 | 3  | 4

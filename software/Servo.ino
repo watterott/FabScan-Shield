@@ -1,6 +1,9 @@
 /*
   Using a Servo Motor with FabScan-Shield.
   Further infos: http://arduino.cc/en/Reference/Servo
+
+  Example source code free to use.
+  Further information: https://learn.watterott.com/license/
 */
 
 #include <Servo.h> 
